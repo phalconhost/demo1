@@ -32,4 +32,4 @@ Line ID: @PhalconHost
 ด้านเทคนิค: support@phalconhost.com
 ด้านเอกสารต่างๆ: billing@phalconhost.com
 
-https://www.phalconhost.com
+เยี่ยมชมเว็บไซด์ได้ที่ : https://www.phalconhost.com
